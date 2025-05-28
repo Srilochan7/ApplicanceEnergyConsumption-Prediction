@@ -3,7 +3,7 @@
 energydata_complete.csv
 
 # Jupyter Notebook
-*.ipynb
+
 .ipynb_checkpoints/
 
 # Dataset folder
