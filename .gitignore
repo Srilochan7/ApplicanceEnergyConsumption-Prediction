@@ -1,0 +1,20 @@
+# CSV files
+*.csv
+energydata_complete.csv
+
+# Jupyter Notebook
+*.ipynb
+.ipynb_checkpoints/
+
+# Dataset folder
+dataset/
+
+SS_1.jpg
+SS_2.jpg
+SS_3.jpg
+SS_4.jpg
+SS_5.jpg
+SS_6.jpg
+SS_7.jpg
+SS_8.jpg
+SS_9.jpg
